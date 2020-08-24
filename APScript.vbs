@@ -64,7 +64,7 @@ For i = 2 To Last_Row
     Cells(i, 4).Value = "145"
     End If
     If Subsidiary = "86" Then
-  Cells(i, 3).Value = "Chase Operating Europe-4241"
+    Cells(i, 3).Value = "Chase Operating Europe-4241"
     Cells(i, 4).Value = "219"
     End If
 Next i
